@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\student-a502.PERMAVIAT\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ManagerLicense\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ManagerLicense_Pr5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77D53252-6FB2-42D8-8566-879AB605D333}|Client\\Client.csproj|c:\\users\\student-a502.permaviat\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\managerlicense\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77D53252-6FB2-42D8-8566-879AB605D333}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\managerlicense_pr5\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77D53252-6FB2-42D8-8566-879AB605D333}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73EB70-6500-4D9D-BFAE-9A399A9D00FD}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\managerlicense_pr5\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73EB70-6500-4D9D-BFAE-9A399A9D00FD}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E73EB70-6500-4D9D-BFAE-9A399A9D00FD}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\managerlicense_pr5\\server\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E73EB70-6500-4D9D-BFAE-9A399A9D00FD}|Server\\Server.csproj|solutionrelative:server\\classes\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +22,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\student-a502.PERMAVIAT\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ManagerLicense\\Client\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ManagerLicense_Pr5\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "C:\\Users\\student-a502.PERMAVIAT\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ManagerLicense\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ManagerLicense_Pr5\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T10:04:57.24Z",
+              "WhenOpened": "2025-12-04T10:28:50.436Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ManagerLicense_Pr5\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ManagerLicense_Pr5\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:27:17.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ManagerLicense_Pr5\\Server\\Classes\\Client.cs",
+              "RelativeDocumentMoniker": "Server\\Classes\\Client.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ManagerLicense_Pr5\\Server\\Classes\\Client.cs",
+              "RelativeToolTip": "Server\\Classes\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:26:45.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
