@@ -356,7 +356,7 @@ namespace Client
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine(" - show connection status");
 
-            // Описание команды /help
+            // Описание команды /help аерар
             Console.ForegroundColor = ConsoleColor.Green;
             Console.Write("/help");
             Console.ForegroundColor = ConsoleColor.White;
